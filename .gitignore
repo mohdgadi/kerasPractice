@@ -13,6 +13,9 @@ Icon
 # Virtualenv folder
 ENV/
 
+# VSCODE folder
+.vscode/
+
 # Thumbnails
 ._*
 
